@@ -1,0 +1,2 @@
+# JavaReflectExercise
+Java反射练习，通过指定类的class文件获取该类的结构
